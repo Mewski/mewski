@@ -5,11 +5,13 @@ Hello! I am mainly a C++ developer who enjoys binary reverse engineering and low
 <!--START_SECTION:waka-->
 
 ```txt
-C++              7 mins          ████████▒░░░░░░░░░░░░░░░░   33.06 %
-GitIgnore file   7 mins          ████████▒░░░░░░░░░░░░░░░░   32.69 %
-CMake            4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-Markdown         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+From: 04 December 2022 - To: 13 September 2024
+
+Total Time: 838 hrs 15 mins
+
+C++               436 hrs 26 mins ████████████▒░░░░░░░░░░░░   49.25 %
+Vue.js            115 hrs 21 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Other             47 hrs 57 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
