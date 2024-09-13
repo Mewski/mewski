@@ -2,7 +2,7 @@
 Hello! I am mainly a C++ developer who enjoys binary reverse engineering and low-level programming.
 
 #### WakaTime
-<!--START_SECTION:waka-->
+<!--START_SECTION:wakatime-->
 
 ```txt
 From: 04 December 2022 - To: 13 September 2024
