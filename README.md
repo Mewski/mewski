@@ -1,6 +1,8 @@
-### Aniya Kitsuki
-#### Mewski
-
+### Mewski
 Hello! I am mainly a C++ developer who enjoys binary reverse engineering and low-level programming.
 
-<!-- Hallo! -->
+#### WakaTime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### Languages
