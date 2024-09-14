@@ -1,8 +1,12 @@
 ### Mewski
 
-Hi! I am primarily a C++ developer who enjoys binary reverse engineering and low-level programming. I also have a passion for web and UI design.
+##### Aniya Kitsuki
 
-#### WakaTime
+Hi! I am primarily a C++ developer who enjoys binary reverse engineering and low-level programming. I also have a
+passion for web development and UI design.
+
+#### WakaTime 🕒
+
 <!--START_SECTION:wakatime-->
 
 ```rust
@@ -21,3 +25,8 @@ IDA               18 hrs 3 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:wakatime-->
+
+#### Sponsorship ✨
+
+[![Patreon](https://img.shields.io/badge/Patreon-%23f96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Mewski)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-%2329abe0.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aniyaki)
