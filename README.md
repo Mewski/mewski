@@ -1,5 +1,6 @@
 ### Mewski
-Hello! I am mainly a C++ developer who enjoys binary reverse engineering and low-level programming.
+
+Hi! I am primarily a C++ developer who enjoys binary reverse engineering and low-level programming. I also have a passion for web and UI design.
 
 #### WakaTime
 <!--START_SECTION:wakatime-->
