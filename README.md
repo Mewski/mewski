@@ -4,7 +4,7 @@
 
 <h3 align="center">hi i'm mewski and i have never once read the documentation</h3>
 
-<p align="center"><i>reverse engineer. bug haver. unpaid intern of my own segfaults.</i></p>
+<p align="center"><i>reverse engineer. systems security. bug haver. unpaid intern of my own segfaults.</i></p>
 
 ```console
 $ ./mewski --help
@@ -18,7 +18,7 @@ ok fine
 - rename `sub_401000` to `the_evil_one` and call it a night
 - if it works on my machine it ships on my machine
 - my threat model is me at 4am
-- the c2 is for research. the research is vibes
+- diagnosed with ai psychosis. the agent says i'm fine and honestly it's never lied to me
 
 <p align="center">
   <img src="assets/eidolon-1.webp" width="120" alt="Sparxie seen from behind, braided twin tails">
