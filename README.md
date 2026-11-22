@@ -1,29 +1,34 @@
-### Mewski
+<p align="center">
+  <img src="assets/splash.webp" width="300" alt="anime girl tumbling out of a retro computer monitor, flashing a peace sign">
+</p>
 
-Hi! I am primarily a C++ developer who likes binary reverse engineering and low-level programming. I also do web development and UI design.
+<h3 align="center">hi i'm mewski and i have never once read the documentation</h3>
 
-#### WakaTime 🕒
+<p align="center"><i>reverse engineer. bug haver. unpaid intern of my own segfaults.</i></p>
 
-<!--START_SECTION:wakatime-->
-
-```rust
-Total Time: 1,748 hrs 47 mins
-
-C++               526 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.26 %
-Vue.js            239 hrs 45 mins       ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.32 %
-Nix               168 hrs 8 mins        ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.34 %
-Python            105 hrs 8 mins        ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.84 %
-TypeScript        103 hrs 53 mins       ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.77 %
-Rust              97 hrs 35 mins        ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.42 %
-CMake             53 hrs 38 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.98 %
-Markdown          52 hrs 37 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.92 %
-Other             51 hrs 45 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.88 %
-C                 42 hrs 12 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.34 %
+```console
+$ ./mewski --help
+segmentation fault (core dumped)
+$ ./mewski --help
+segmentation fault (core dumped)
+$ sudo ./mewski --help
+ok fine
 ```
 
-<!--END_SECTION:wakatime-->
+- rename `sub_401000` to `the_evil_one` and call it a night
+- if it works on my machine it ships on my machine
+- my threat model is me at 4am
+- the c2 is for research. the research is vibes
 
-#### Sponsoring ✨
+<p align="center">
+  <img src="assets/eidolon-1.webp" width="120" alt="Sparxie seen from behind, braided twin tails">
+  <img src="assets/eidolon-2.webp" width="120" alt="close-up of Sparxie's pink eye and heart mark">
+  <img src="assets/eidolon-3.webp" width="120" alt="Sparxie winking and blowing a kiss">
+  <img src="assets/eidolon-4.webp" width="120" alt="Sparxie peeking out from behind her phone">
+  <img src="assets/eidolon-5.webp" width="120" alt="Sparxie smiling, wearing her clover choker">
+  <img src="assets/eidolon-6.webp" width="120" alt="Sparxie inside a retro desktop window">
+</p>
 
-[![Patreon](https://img.shields.io/badge/Patreon-%23f96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Mewski)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-%2329abe0.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aniyaki)
+<p align="center">
+  <a href="https://mewski.dev"><b>mewski.dev</b></a> ✦ more hex, fewer answers
+</p>
