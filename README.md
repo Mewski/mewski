@@ -2,7 +2,7 @@
   <img src="assets/splash.webp" width="300" alt="anime girl tumbling out of a retro computer monitor, flashing a peace sign">
 </p>
 
-<h3 align="center">hi i'm mewski and i have never once read the documentation</h3>
+<h3 align="center">hi, i'm mewski</h3>
 
 <p align="center"><i>reverse engineer. systems security. bug haver. unpaid intern of my own segfaults.</i></p>
 
