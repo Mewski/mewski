@@ -1,5 +1,9 @@
 <p align="center">
+  <img src="assets/sticker-1.png" width="90" alt="chibi Sparxie winking with a giant thumbs up">
+  <img src="assets/sticker-2.png" width="90" alt="chibi Sparxie pouting with her eyes shut">
   <img src="assets/splash.webp" width="300" alt="anime girl tumbling out of a retro computer monitor, flashing a peace sign">
+  <img src="assets/sticker-3.png" width="90" alt="chibi Sparxie licking her lips next to a crying masked figure">
+  <img src="assets/sticker-4.png" width="90" alt="chibi Sparxie starry-eyed with a microphone">
 </p>
 
 <h3 align="center">hi, i'm mewski</h3>
@@ -30,5 +34,5 @@ ok fine
 </p>
 
 <p align="center">
-  <a href="https://mewski.dev"><b>mewski.dev</b></a>
+  <a href="https://mewski.dev"><b>mewski.dev</b></a> ✦ blog posts about bugs i caused myself
 </p>
