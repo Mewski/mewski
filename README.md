@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/sticker-1.png" width="90" alt="chibi Sparxie winking with a giant thumbs up">
   <img src="assets/sticker-2.png" width="90" alt="chibi Sparxie pouting with her eyes shut">
-  <img src="assets/splash.webp" width="300" alt="anime girl tumbling out of a retro computer monitor, flashing a peace sign">
+  <img src="assets/splash.webp" width="240" alt="anime girl tumbling out of a retro computer monitor, flashing a peace sign">
   <img src="assets/sticker-3.png" width="90" alt="chibi Sparxie licking her lips next to a crying masked figure">
   <img src="assets/sticker-4.png" width="90" alt="chibi Sparxie starry-eyed with a microphone">
 </p>
