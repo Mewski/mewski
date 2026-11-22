@@ -30,5 +30,5 @@ ok fine
 </p>
 
 <p align="center">
-  <a href="https://mewski.dev"><b>mewski.dev</b></a> ✦ more hex, fewer answers
+  <a href="https://mewski.dev"><b>mewski.dev</b></a>
 </p>
